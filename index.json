@@ -1,23 +1,23 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "developer",
-    "image": "https://user-images.githubusercontent.com/10413754/79948155-e5e9da80-84a5-11ea-83eb-34e2f5aa89f6.png",
-    "email": "johndoe@gmail.com",
-    "phone": "(111) 333-4567",
+    "name": "Narender Kolluri",
+    "label": "Software Engineer",
+    "image": "https://media-exp1.licdn.com/dms/image/C5103AQFpIGVpq49Tng/profile-displayphoto-shrink_200_200/0?e=1596067200&v=beta&t=ZVSr1s7H8pIdncqb7g-3d_zud-LruDhMN7tGSJ_zNtQ",
+    "email": "narenmudhiraj28@gmail.com",
+    "phone": "+91 78993565239",
     "website": "http://johndoe.com",
-    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "summary": "",
     "location": {
-      "address": "22111 Makiling",
+      "address": "",
       "postalCode": "4027",
-      "city": "Calamba",
-      "countryCode": "PH",
-      "region": "Philippines"
+      "city": "Hyderabad",
+      "countryCode": "In",
+      "region": "India"
     },
     "profiles": [{
-      "network": "Twitter",
-      "username": "johndoe",
-      "url": "http://twitter.com/johndoe"
+      "network": "Linkedin",
+      "username": "Narender",
+      "url": "https://www.linkedin.com/in/narender-kolluri-2234418b/"
     }]
   },
   "work": [{
